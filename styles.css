@@ -38,6 +38,7 @@ li {
 }
 a {
     min-width: 25%;
+    max-width: 25%;
     font-family: Sans-serif;
     font-size: .6em;
     line-height: 2em;
